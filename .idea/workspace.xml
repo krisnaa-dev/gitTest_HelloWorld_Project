@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="" />
+    <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,10 +73,10 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="254" y="105" key="#Project_Structure/0.23.1440.830@0.23.1440.830" timestamp="1585240747642" />
-    <state x="225" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585582263097">
+    <state x="225" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585582318125">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="225" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1585582263097" />
+    <state x="225" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1585582318125" />
     <state x="488" y="336" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585240820170">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
